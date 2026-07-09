@@ -14,7 +14,7 @@ def load_data():
     train2=pd.read_csv('dashboard_data/train_details.csv')
     station = pd.read_csv('dashboard_data/station_summary.csv')
     month = pd.read_csv('dashboard_data/month_delay')
-    zone = pd.read_csv('zonal4')
+    zone = pd.read_csv('dashboard_data/zonal4')
     progress = pd.read_csv('dashboard_data/journey_progress.csv')
     train_type=pd.read_csv('dashboard_data/type_delay')
     # return station
