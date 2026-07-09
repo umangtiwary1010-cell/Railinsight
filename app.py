@@ -221,9 +221,9 @@ with tab2:
        )  
     with col3:
        st.metric(
-          "Total Stop",
+          "Total Stations",
           
-          selected["total_stations"].iloc[0]
+          selected["total_stops"].iloc[0]
        )  
     # st.divider() 
     # st.caption(
