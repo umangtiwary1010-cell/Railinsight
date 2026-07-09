@@ -9,16 +9,18 @@ Built using **Python, Pandas, Plotly, and Streamlit**, RailInsight enables users
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots after uploading them)*
+
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+
+(<img width="1865" height="783" alt="Screenshot 2026-07-10 022225" src="https://github.com/user-attachments/assets/e8061671-c892-43c1-9979-d48b12b359e8" />)
 
 ### 🚆 Train Explorer
-![Train Explorer](screenshots/train_explorer.png)
+<img width="1813" height="667" alt="Screenshot 2026-07-10 014630" src="https://github.com/user-attachments/assets/057fe848-eb57-4ff9-acf8-4767c3edcaad" />
 
 ### 🚉 Station Explorer
-![Station Explorer](screenshots/station_explorer.png)
+<img width="1797" height="414" alt="Screenshot 2026-07-10 014707" src="https://github.com/user-attachments/assets/3d28452b-1f38-499d-977f-f9a31fbb8cfc" />
+
 
 ---
 
