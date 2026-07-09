@@ -223,7 +223,7 @@ with tab2:
        st.metric(
           "Total Stop",
           
-          selected["total_stops"].iloc[0]
+          selected["total_stations"].iloc[0]
        )  
     # st.divider() 
     # st.caption(
